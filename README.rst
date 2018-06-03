@@ -1,15 +1,5 @@
-#### AWS-BOTO
-####
-boto 2.48.0
-
+#### AWS-BOTO ==> boto 2.48.0 ===> Boto 3 +
 ******
-Boto 3
-******
-
-************
-Introduction
-************
-
 Boto is a Python package that provides interfaces to Amazon Web Services.
 Currently, all features work with Python 2.6 and 2.7. Work is under way to
 support Python 3.3+ in the same codebase. Modules are being ported one at
