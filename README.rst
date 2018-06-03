@@ -158,8 +158,6 @@ The boto project uses the `gitflow`_ model for branching.
 full API documentation as well as Getting Started Guides for many of the boto
 modules.
 
-Boto releases can be found on the `Python Cheese Shop`_.
-
 Join our IRC channel `#boto` on FreeNode.
 Webchat IRC channel: http://webchat.freenode.net/?channels=boto
 
