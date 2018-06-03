@@ -27,11 +27,11 @@ At the moment, boto supports:
   * AWS Lambda (Python 3)
   * Amazon EC2 Container Service (Python 3)
 
-* Content Delivery
+# * Content Delivery
 
   * Amazon CloudFront (Python 3)
 
-* Database
+# * Database
 
   * Amazon Relational Data Service (RDS)
   * Amazon DynamoDB (Python 3)
@@ -39,7 +39,7 @@ At the moment, boto supports:
   * Amazon ElastiCache (Python 3)
   * Amazon Redshift (Python 3)
 
-* Deployment and Management
+# * Deployment and Management
 
   * AWS Elastic Beanstalk (Python 3)
   * AWS CloudFormation (Python 3)
@@ -48,14 +48,14 @@ At the moment, boto supports:
   * AWS CloudTrail (Python 3)
   * AWS CodeDeploy (Python 3)
 
-* Administration & Security
+# * Administration & Security
 
   * AWS Identity and Access Management (IAM) (Python 3)
   * AWS Key Management Service (KMS) (Python 3)
   * AWS Config (Python 3)
   * AWS CloudHSM (Python 3)
 
-* Application Services
+# * Application Services
 
   * Amazon CloudSearch (Python 3)
   * Amazon CloudSearch Domain (Python 3)
@@ -68,12 +68,12 @@ At the moment, boto supports:
   * Amazon Cognito Sync (Python 3)
   * Amazon Machine Learning (Python 3)
 
-* Monitoring
+# * Monitoring
 
   * Amazon CloudWatch (EC2 Only) (Python 3)
   * Amazon CloudWatch Logs (Python 3)
 
-* Networking
+# * Networking
 
   * Amazon Route53 (Python 3)
   * Amazon Route 53 Domains (Python 3)
@@ -81,22 +81,22 @@ At the moment, boto supports:
   * Elastic Load Balancing (ELB) (Python 3)
   * AWS Direct Connect (Python 3)
 
-* Payments and Billing
+# * Payments and Billing
 
   * Amazon Flexible Payment Service (FPS)
 
-* Storage
+# * Storage
 
   * Amazon Simple Storage Service (S3) (Python 3)
   * Amazon Glacier (Python 3)
   * Amazon Elastic Block Store (EBS)
   * Google Cloud Storage
 
-* Workforce
+# * Workforce
 
   * Amazon Mechanical Turk
 
-* Other
+# * Other
 
   * Marketplace Web Services (Python 3)
   * AWS Support (Python 3)
@@ -113,7 +113,7 @@ other than those that are distributed with Python.  Efforts are made
 to keep boto compatible with Python 2.5.x but no guarantees are made.
 
 ************
-Installation
+# Installation
 ************
 
 Install via `pip`_:
@@ -130,9 +130,9 @@ Install from source:
     $ cd boto
     $ python setup.py install
 
-**********
-ChangeLogs
-**********
+****************
+# ChangeLogs
+*******************
 
 To see what has changed over time in boto, you can check out the
 release notes at `http://docs.pythonboto.org/en/latest/#release-notes`
@@ -154,7 +154,7 @@ Webchat IRC channel: http://webchat.freenode.net/?channels=boto
 Join the `boto-users Google Group`_.
 
 *************************
-Getting Started with Boto
+# Getting Started with Boto
 *************************
 
 Your credentials can be passed into the methods that create
